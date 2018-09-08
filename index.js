@@ -288,6 +288,13 @@ f.elementMake = (parentOrSiblId, relLoc, elName, content, attrs) => {
 
     f.displayObH (Id, content);
     
+    if (elName === 'form') {
+
+        $(parent)
+        .focus ();
+
+    } // end if (elName === 'form')
+    
     return Id;
 
 }; // end f.elementMake

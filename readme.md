@@ -1,8 +1,6 @@
  
 ### go-j2h 
 
-Replaces Deprecated go-json2html
-
 Converts objects, arrays and primitives into html. An html-object is 
 an object that has a key that is a valid html tag and is converted into 
 the corresponding html element. The remaining keys/values of the object 
@@ -17,6 +15,8 @@ A 'cmd-object' is an object that has one of the command keys:
     'rm': removes the content and the element itself
     'content': replaces existing content of a non-void html element 
     'attr': sets an attribute (or replaces with new value, if attribute exists)
+
+Replaces Deprecated go-json2html
 
 ### Installation
 ```shell
