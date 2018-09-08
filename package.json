@@ -1,0 +1,22 @@
+{
+  "name": "go-j2h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [],
+  "author": "T. Greg O'Neil <go22.npm@gmail.com> (http://tgregoneil.com)",
+  "license": "ISC",
+  "readme": "readme.md",
+  "homepage": "https://github.com/tgregoneil/go-j2h",
+  "repository": {
+    "url": "git+ssh://github.com/tgregoneil/go-j2h.git",
+    "type": "git"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/tgregoneil/go-j2h/issues"
+  }
+}
