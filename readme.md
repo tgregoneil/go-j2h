@@ -38,6 +38,6 @@ j2h ({
 j2h ({br: 0});
 j2h ("plain text");
 ```
-![rendered](https://raw.githubusercontent.com/tgregoneil/go-json2html/master/testGoJ2H.png)
+![rendered](https://raw.githubusercontent.com/tgregoneil/go-j2h/master/testGoJ2H.png)
 
 
