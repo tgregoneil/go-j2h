@@ -1,6 +1,6 @@
 {
   "name": "go-j2h",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "url": "git+ssh://github.com/tgregoneil/go-j2h.git",
     "type": "git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "go-msg": "*"
+  },
   "bugs": {
     "url": "https://github.com/tgregoneil/go-j2h/issues"
   }

@@ -179,7 +179,7 @@ f.displayObH = (parent, dispOb) => {
 
         } else if (text) {
 
-            Id = f.textMake (parent, relLoc, dispOb);
+            Id = f.textMake (parent, relLoc, text);
 
         } else {
 
